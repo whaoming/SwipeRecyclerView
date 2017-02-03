@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\work\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_500a51774af1e19880309039ac7134fe5031ca76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_b753c9dbea0996d54ff803238854bcb4f03a79e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e5c9c6c902ec18466ce79d34ff2dd34435fd0fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_a83ba96e742dc805d72f4cc732f65bebc17936d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_07c0e4daf4379bbd0b0002189641132d4cd50d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_c0b15edff085ff54acad47d993530669753bcfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_90e0b71897cd6ae7abdd2af97324748e796cf2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_f0ef40dbd78ea7757a7a7d3094c31b0f4f346796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_389368438bac205d725eb7df434dd60dd19297e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2e451f39a0aeedf00fba4d4f1c2a655f4a232abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_8e436ea64a8840da4ed00586d1ef0a2f4f9f5cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_22606ab7ec27d577e3c51cb25b64eae18b073634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_1cea2e87ee49fce7a5515a618a89f4ee9591df2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\WorkPlace\Android\AS\20160424\SwipeRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_d5c9dcbd164076aa0bcebf8d9473f273919d8873.jar" />
+    </item>
+
+</items>
